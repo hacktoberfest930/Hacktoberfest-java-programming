@@ -16,6 +16,7 @@ temp = temp/10;
 digits++;   
 }   
 temp = n;   
+
 while(temp>0)   
 {   
 //determines the last digit from the number      
