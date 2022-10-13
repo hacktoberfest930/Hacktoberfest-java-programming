@@ -4,8 +4,6 @@ import java.util.*;
 class ArrayListExample { 
     public static void main(String[] args) 
     { 
-        // Size of the 
-        // ArrayList 
         int n = 5; 
   
         // Declaring the ArrayList with 
